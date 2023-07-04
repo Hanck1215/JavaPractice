@@ -1,3 +1,5 @@
+package dataStructuresTools ;
+
 public class SinglyLinkedList<E> {
     
     //------------------nested Node class--------------------
